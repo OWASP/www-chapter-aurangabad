@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ashutosh Bhakare](mailto:ashutosh.bhakare@owasp.org)
+* [Rachana Bhakare](mailto:rachana.bhakare@owasp.org)
