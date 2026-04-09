@@ -14,7 +14,7 @@ Welcome to the OWASP Nashik Chapter! We are a community of security enthusiasts,
 
 
 ## Upcoming Meetings
-Most Probably in February 2026 !!
+Most Probably in June 2026 !!
 
 
 ## Participation
